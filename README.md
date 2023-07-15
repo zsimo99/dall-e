@@ -11,7 +11,6 @@ This project is a DALL·E clone, which allows you to generate images using the p
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -30,27 +29,27 @@ git clone https://github.com/zsimo99/dall-e.git
 
 2. Navigate to the server directory:
 
-(`)cd server(`)
+`cd server`
 
 3. Install the required dependencies:
 
-npm install
+`npm install`
 
 
 4. Start the server:
 
-npm run dev
+`npm run dev`
 
 
 5. Open a new terminal window and navigate to the client directory:
-cd ../client
+`cd ../client`
 
 6. Install the required dependencies:
-npm install
+`npm install`
 
 7. Start the client:
 
-npm run dev
+`npm run dev`
 
 ## Usage
 
@@ -62,8 +61,4 @@ npm run dev
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
-
-## License
-
-[MIT License](LICENSE)
 
