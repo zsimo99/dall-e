@@ -42,12 +42,14 @@ Demo coming soon!
 
 
 5. Open a new terminal window and navigate to the client directory:
+
 `cd ../client`
 
-6. Install the required dependencies:
+7. Install the required dependencies:
+
 `npm install`
 
-7. Start the client:
+9. Start the client:
 
 `npm run dev`
 
