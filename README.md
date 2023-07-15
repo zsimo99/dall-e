@@ -30,7 +30,7 @@ git clone https://github.com/zsimo99/dall-e.git
 
 2. Navigate to the server directory:
 
-(`)cd server
+(`)cd server(`)
 
 3. Install the required dependencies:
 
